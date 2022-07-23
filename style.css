@@ -214,7 +214,7 @@ a {
 }
 .police > h3,
 .education > h3,
-.add-education > h3,
+.education-item > h3,
 .language > h3 {
   font-style: normal;
   font-weight: bold;
@@ -228,7 +228,7 @@ a {
 }
 .police > h5,
 .education > h5,
-.add-education > h5 {
+.education-item > h5 {
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -292,13 +292,13 @@ a {
 .education > h5,
 .education > h3,
 .add-education > h2,
-.add-education > h5,
-.add-education > h3,
+.education-item > h5,
+.education-item > h3,
 .language > h3 {
   margin-top: 12px;
 }
 .education > h3 span,
-.add-education > h3 span,
+.education-item > h3 span,
 .language > h3 span {
   color: #fb6d3a;
 }
@@ -344,7 +344,7 @@ a {
     margin-top: 30px;
   }
   .education,
-  .add-education,
+  .education-item,
   .language,
   .work-experience,
   .project {
