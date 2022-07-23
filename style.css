@@ -178,6 +178,13 @@ a {
   line-height: 24px;
   color: #595959;
 }
+.project-list p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
 .work-experience {
   margin-top: 51px;
 }
